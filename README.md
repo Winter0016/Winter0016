@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phuc Chau
 
-I am a **Full-Stack Developer** (BSc Computer Science) who loves building scalable applications across both traditional web infrastructure (Web2) and decentralized ecosystems (Web3). 
+I am a **Full-Stack Developer** who loves building scalable applications across both traditional web infrastructure (Web2) and decentralized ecosystems (Web3). 
 
 I am highly flexible across the stack—whether it's building a complex NEXTJS/REACTJS frontend, architecting a Node.js/PostgreSQL backend, or writing gas-optimized and secured Smart Contracts.
 
