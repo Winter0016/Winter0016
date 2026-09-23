@@ -6,7 +6,7 @@ I am highly flexible across the stack—whether it's building a complex NEXTJS/R
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 * **Languages:** Solidity, Node.js, TypeScript/JavaScript
 * **Frontend:** React.js, Next.js, Wagmi, Viem
 * **Backend:** Express.js, PostgreSQL, MongoDB, GraphQL, Redis
