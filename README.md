@@ -16,32 +16,32 @@ I am highly flexible across the stack—whether it's building a complex NEXTJS/R
 
 ---
 
-### 🚀 What I Build
+### What I Build
 
-#### 🏦 RWA Tokenization Protocol (Current)
+#### RWA Tokenization Protocol (Current)
 A platform to trade real US stocks on the blockchain using synthetic tokens. 
 * **Hybrid Architecture:** Built a two-step settlement engine bridging Web2 brokerages (Alpaca API) and Web3 Smart Contracts.
 * **UX & Security: Integrated Account Abstraction (Privy & Pimlico) for gasless USDC transactions. Engineered a zero-trust backend to mathematically prevent API spoofing, database data corruption, and Denial of Service (DoS).
 * **Performance:** Replaced expensive blockchain HTTP polling with a real-time WebSocket indexer, dropping RPC compute usage by >95%.
 
-#### 🎮 King-Dom-Chan NFT Project
+#### King-Dom-Chan NFT Project
 An upgradeable gaming marketplace with Token Bound Accounts (ERC-6551).
 * **Gasless Trading:** Developed an off-chain Node.js/MongoDB relayer using EIP-712 signatures for gasless peer-to-peer escrow trades.
 * **Fast Indexing:** Built a custom Viem indexer to sync contract events to MongoDB, drastically speeding up frontend queries.
 
-#### 📈 Term-Deposit Banking Protocol
+#### Term-Deposit Banking Protocol
 A DeFi protocol for fixed-term deposits with isolated treasury pools.
 * **Gas Optimization:** Bit-packed 8 struct fields into a single 32-byte EVM storage slot, saving ~20,000 gas per deposit transaction.
 * **Automation:** Integrated Chainlink Automation to monitor deposit maturity off-chain and automatically trigger on-chain rollovers.
 
-#### 🌉 Cross-Chain Rebase Protocol
+#### Cross-Chain Rebase Protocol
 A multi-chain reward token utilizing Chainlink CCIP.
 * **Math & Testing:** Built an ERC-20 token that globally scales balances in real-time. Secured the complex math formulas against edge cases using Foundry invariant fuzz tests.
 * **Bridging:** Implemented custom token pools to seamlessly transfer supply between Sepolia and Arbitrum while keeping interest rates synchronized.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - **Email:** chauquangphuc2604.2604@gmail.com
 - **LinkedIn:** [linkedin.com/in/phúc-châu-65104a302](https://www.linkedin.com/in/phúc-châu-65104a302)
 - **GitHub:** [github.com/Winter0016](https://github.com/Winter0016)
