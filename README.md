@@ -9,7 +9,7 @@ I am highly flexible across the stack—whether it's building a complex NEXTJS/R
 ### Tech Stack & Tools
 * **Languages:** Solidity, Node.js, TypeScript/JavaScript
 * **Frontend:** React.js, Next.js, Wagmi, Viem
-* **Backend:** Express.js, PostgreSQL, MongoDB, GraphQL, Redis
+* **Backend:** Nodejs, Nestjs, PostgreSQL, MongoDB, Redis
 * **Web3 Infrastructure:** Foundry (Forge/Anvil/Cast), Chainlink (CCIP, VRF, Automation), Alchemy, IPFS/Pinata
 * **Smart Contract Standards:** ERC-20, ERC-721, ERC-6551 (TBA), ERC-4337 (Account Abstraction), UUPS Proxies
 * **Security & Optimization:** EIP-712 Signatures, Invariant Fuzzing, Storage Bit-packing, Reentrancy Guards
