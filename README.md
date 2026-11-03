@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Phuc Chau
 ![](https://komarev.com/ghpvc/?username=Winter0016&color=green&style=flat-square)
-I am a **Full-Stack Developer** who loves building scalable applications across both traditional web infrastructure (Web2) and decentralized ecosystems (Web3). 
+I am a **Self-Taught Developer** building applications to study, experiment, and deeply understand how things work under the hood.
 
-I am highly flexible across the stack—whether it's building a complex NEXTJS/REACTJS frontend, architecting a Node.js/PostgreSQL backend, or writing gas-optimized and secured Smart Contracts.
-
+I am currently looking for an engineering position in both Web2 and Web3 to get my foot in the door, grow alongside an experienced team, and build software that matters.
 ---
 
 ### Tech Stack & Tools
@@ -11,12 +10,10 @@ I am highly flexible across the stack—whether it's building a complex NEXTJS/R
 * **Frontend:** React.js, Next.js, Wagmi, Viem
 * **Backend:** Nodejs, Nestjs, PostgreSQL, MongoDB, Redis
 * **Web3 Infrastructure:** Foundry (Forge/Anvil/Cast), Chainlink (CCIP, VRF, Automation), Alchemy, IPFS/Pinata
-* **Smart Contract Standards:** ERC-20, ERC-721, ERC-6551 (TBA), ERC-4337 (Account Abstraction), UUPS Proxies
-* **Security & Optimization:** EIP-712 Signatures, Invariant Fuzzing, Storage Bit-packing, Reentrancy Guards
 
 ---
 
-### What I Build
+### Projects 
 
 #### RWA Tokenization Protocol
 A platform to trade real US stocks on the blockchain using synthetic tokens. 
