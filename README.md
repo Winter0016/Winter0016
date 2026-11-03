@@ -3,6 +3,7 @@
 I am a **Self-Taught Developer** building applications to study, experiment, and deeply understand how things work under the hood.
 
 I am currently looking for an engineering position in both Web2 and Web3 to get my foot in the door, grow alongside an experienced team, and build software that matters.
+
 ---
 
 ### Tech Stack & Tools
