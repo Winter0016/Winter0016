@@ -18,7 +18,7 @@ I am highly flexible across the stack—whether it's building a complex NEXTJS/R
 
 ### What I Build
 
-#### RWA Tokenization Protocol (Current)
+#### RWA Tokenization Protocol
 A platform to trade real US stocks on the blockchain using synthetic tokens. 
 * **Hybrid Architecture:** Built a two-step settlement engine bridging Web2 brokerages (Alpaca API) and Web3 Smart Contracts.
 * **UX & Security: Integrated Account Abstraction (Privy & Pimlico) for gasless USDC transactions. Engineered a zero-trust backend to mathematically prevent API spoofing, database data corruption, and Denial of Service (DoS).
