@@ -42,6 +42,4 @@ A multi-chain reward token utilizing Chainlink CCIP.
 ### Let's Connect
 - **Email:** chauquangphuc2604.2604@gmail.com
 - **LinkedIn:** [linkedin.com/in/phúc-châu-65104a302](https://www.linkedin.com/in/phúc-châu-65104a302)
-- **GitHub:** [github.com/Winter0016](https://github.com/Winter0016)
 
-*(Currently open to Full-Stack Web3/Web2 Engineering roles!)*
